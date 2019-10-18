@@ -5,6 +5,11 @@
 - Bio: ReactJS, NodeJS developer looking for remote full stack or front end development work.
 - GitHub: [bioprogram1316](https://github.com/bioprogram1316)
 
+#### Name: [Daniela Ramirez](https://github.com/dxniela)
+- Place: Caracas, Venezuela
+- Bio: Computer Engineering Student 
+- GitHub: [dxniela](https://github.com/dxniela)
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
